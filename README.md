@@ -19,7 +19,7 @@
     <a href="#cikuray">Perjalanan Gunung Cikuray</a> | 
     <a href="#gede">Perjalanan Gunung Gede</a> |
     <a href="#instagram">Instagram</a> |
-    <a href="#form">Form Tugas P7</a>
+    <a href="#form">Form tugas P7</a>
   </center>
   <hr>
 
@@ -96,7 +96,7 @@
   <p><a href="https://www.instagram.com/dapnerrrr?igsh=OHdudGdnd3M5cGtq" target="_blank" style="color:blue;">Klik di sini buat ke Instagram gue</a></p>
 
   <br><br><br><br><br><br>
-  <p><a href="#form" style="color:blue;">Halaman selanjutnya → Form Pendaftaran</a></p>
+  <p><a href="#form" style="color:blue;">Halaman selanjutnya → Form P7</a></p>
   
   <br><br><br><br><br><br><br><br><br><br><br><br>
   <center><p><i>Thanks ya udah follow</i></p></center>
