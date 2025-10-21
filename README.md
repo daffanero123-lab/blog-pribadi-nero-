@@ -19,7 +19,7 @@
     <a href="#cikuray">Perjalanan Gunung Cikuray</a> | 
     <a href="#gede">Perjalanan Gunung Gede</a> |
     <a href="#instagram">Instagram</a> |
-    <a href="#form">Form Pendaftaran</a>
+    <a href="#form">Form Tugas P7</a>
   </center>
   <hr>
 
@@ -104,7 +104,7 @@
    <br><br><br><hr><br><br><br>
 
   <!-- ====== FORM P7 ====== -->
-<center>
+<center id="form">
   <form>
     <table width="80%" border="0" cellspacing="8">
       <tr>
