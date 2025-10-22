@@ -2,16 +2,44 @@
 <html>
 <head>
   <title>Blog Pribadi Nero</title>
+  <style>
+    
+    @keyframes slide {
+      0% { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+
+    .animasi {
+      display: inline-block;
+      white-space: nowrap;
+      animation: slide 8s linear infinite;
+    }
+
+    .merah {
+      color: red;
+    }
+
+    .biru {
+      color: blue;
+    }
+
+    .judul-container {
+      overflow: hidden;
+      width: 100%;
+    }
+  </style>
 
 </head>
 <body>
 
   <center>
-    <h1 class="animasi">
-      <u><b>
-        <span class="merah">TUGAS PWD</span> TEMA <span class="biru">BLOG PRIBADI</span>
-      </b></u>
-    </h1>
+   <div class="judul-container">
+      <h1 class="animasi">
+        <u><b>
+          <span class="merah">TUGAS PWD</span> TEMA <span class="biru">BLOG PRIBADI</span>
+        </b></u>
+      </h1>
+    </div>
    <br><br><br>
     <h1><p><b><i>SELAMAT DATANG DI BLOG PRIBADI SAYA, SELAMAT MEMBACA!</i></b></p></h1>
   </center>
