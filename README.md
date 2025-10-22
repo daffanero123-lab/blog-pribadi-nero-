@@ -3,7 +3,7 @@
 <head>
   <title>Blog Pribadi Nero</title>
    <style>
-    /* Animasi geser kiri-kanan */
+ 
     @keyframes slide {
       0% { transform: translateX(0); }
       50% { transform: translateX(50px); }
@@ -27,8 +27,11 @@
 <body>
 
   <center>
-    <h1><u><b>TUGAS PWD TEMA BLOG PRIBADI</b></u></h1>
-
+    <h1 class="animasi">
+      <u><b>
+        <span class="merah">TUGAS PWD</span> TEMA <span class="biru">BLOG PRIBADI</span>
+      </b></u>
+    </h1>
    <br><br><br>
     <h1><p><b><i>SELAMAT DATANG DI BLOG PRIBADI SAYA, SELAMAT MEMBACA!</i></b></p></h1>
   </center>
