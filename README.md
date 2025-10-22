@@ -2,27 +2,7 @@
 <html>
 <head>
   <title>Blog Pribadi Nero</title>
-   <style>
- 
-    @keyframes slide {
-      0% { transform: translateX(0); }
-      50% { transform: translateX(50px); }
-      100% { transform: translateX(0); }
-    }
 
-    .animasi {
-      display: inline-block;
-      animation: slide 3s infinite ease-in-out;
-    }
-
-    .merah {
-      color: red;
-    }
-
-    .biru {
-      color: blue;
-    }
-  </style>
 </head>
 <body>
 
