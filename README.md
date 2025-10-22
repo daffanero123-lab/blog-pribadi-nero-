@@ -44,17 +44,6 @@
       text-decoration: underline;
     }
 
-    a.link-next {
-      color: blue;
-      font-weight: bold;
-      text-decoration: none;
-      font-size: 24px;
-    }
-
-    a.link-next:hover {
-      text-decoration: underline;
-    }
-
   </style>
 </head>
 
